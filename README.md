@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Welcome! This is Ajanglux</h1>
-<h3 align="center"> I’m currently working on creating a simple real-time chat-app using python sockets + Tkinter.</h3> <br>
+<h3 align="center"> I've worked on creating a simple real-time chat-app using python sockets + Tkinter.</h3> <br>
 
 <br>
 <br><img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/26/bb/4f/26bb4f08d445790b80e7a1d90dfb65ab.gif">
@@ -72,10 +72,14 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <h3 align="left">Client Code</h3>
 <p align="right"></p>
 <img align="left" alt="Coding" width="500" src="https://github.com/ajanglux/ajanglux/assets/151171757/4bbf7223-47e7-4c3e-a862-302e1bf303ec">
+<br>
+<br>
 <br>
 <br>
 <br>
